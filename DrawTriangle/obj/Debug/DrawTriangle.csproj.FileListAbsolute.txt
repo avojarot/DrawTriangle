@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.exe.config
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.exe
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.pdb
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.Form1.resources
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.V2.resources
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.exe
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.pdb
+C:\Users\USER\Documents\GitHub\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.V1.resources

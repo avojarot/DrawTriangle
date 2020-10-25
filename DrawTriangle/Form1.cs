@@ -16,5 +16,15 @@ namespace DrawTriangle
         {
             InitializeComponent();
         }
+
+        private void toolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            (new V2()).Show();
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            (new V1()).Show();
+        }
     }
 }
